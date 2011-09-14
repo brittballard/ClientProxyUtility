@@ -1,0 +1,5 @@
+C:\source\ClientProxy\ClientProxy\bin\Debug\ClientProxy.dll
+C:\source\ClientProxy\ClientProxy\bin\Debug\ClientProxy.pdb
+C:\source\ClientProxy\ClientProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\source\ClientProxy\ClientProxy\obj\Debug\ClientProxy.dll
+C:\source\ClientProxy\ClientProxy\obj\Debug\ClientProxy.pdb
